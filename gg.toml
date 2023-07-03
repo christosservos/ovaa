@@ -4,6 +4,7 @@
 # Allowlists instruct gitleaks on what is allowed, i.e. not a secret.
 title = "gitleaks config"
 
+
 [allowlist]
 description = "global allow lists"
 regexes = [
